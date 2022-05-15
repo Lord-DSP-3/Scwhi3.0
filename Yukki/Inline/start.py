@@ -178,10 +178,10 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨Official Channel", url=f"{SUPPORT_CHANNEL}"
+                    text="🍃 Network 🍃", url=f"{SUPPORT_CHANNEL}"
                 ),
                 InlineKeyboardButton(
-                    text="📨Support Group", url=f"{SUPPORT_GROUP}"
+                    text="🦊 Owner 🦊", url=f"{SUPPORT_GROUP}"
                 ),
             ],
         ]
