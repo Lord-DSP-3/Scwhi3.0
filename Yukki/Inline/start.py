@@ -55,7 +55,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🦊 OWNER 🦊", url=f"{SUPPORT_GROUP}"
+                    text="🦊 OWNER 🦊", url=f"{https://t.me/Lord_DSP_3}"
                 ),
             ],
         ]
@@ -74,7 +74,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🍃 Network 🍃", url=f"{SUPPORT_CHANNEL}"
+                    text="🍃 Network 🌱", url=f"{https://t.me/Anime_Gaming_Chat_Global}"
                 ),
             ],
         ]
@@ -93,10 +93,10 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨Official Channel", url=f"{SUPPORT_CHANNEL}"
+                    text="📨Official Channel", url=f"{https://t.me/Anime_Gaming_Chat_Global}"
                 ),
                 InlineKeyboardButton(
-                    text="📨Support Group", url=f"{SUPPORT_GROUP}"
+                    text="📨Support Group", url=f"{https://t.me/Anime_Gaming_Chat_Global}"
                 ),
             ],
         ]
@@ -136,7 +136,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🦊 Owner 🦊", url=f"{SUPPORT_GROUP}"
+                    text="🦊 Owner 🦊", url=f"{https://t.me/Lord_DSP_3}"
                 ),
             ],
         ]
@@ -157,7 +157,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🍃 Network 🍃", url=f"{SUPPORT_CHANNEL}"
+                    text="🍃 Network 🍃", url=f"{https://t.me/Anime_Gaming_Chat_Global}"
                 ),
             ],
         ]
@@ -178,10 +178,10 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🍃 Network 🍃", url=f"{SUPPORT_CHANNEL}"
+                    text="🍃 Network 🍃", url=f"{https://t.me/Anime_Gaming_Chat_Global}"
                 ),
                 InlineKeyboardButton(
-                    text="🦊 Owner 🦊", url=f"{SUPPORT_GROUP}"
+                    text="🦊 Owner 🦊", url=f"{https://t.me/Lord_DSP_3}"
                 ),
             ],
         ]
